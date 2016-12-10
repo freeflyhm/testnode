@@ -1,4 +1,4 @@
-Case 1:
+ase 1:
 000:00 red iceman 1 born
 000:00 blue lion 1 born
 Its loyalty is 178
@@ -685,7 +685,6 @@ Its morale is 7.65
 012:40 red iceman 11 attacked blue lion 6 in city 3 with 21 elements and force 40
 012:40 blue lion 6 was killed in city 3
 012:40 red iceman 11 earned 10 elements for his headquarter
-012:40 red flag raised in city 3
 012:40 red ninja 9 attacked blue ninja 8 in city 5 with 10 elements and force 50
 012:50 304 elements in red headquarter
 012:50 428 elements in blue headquarter
@@ -764,6 +763,7 @@ Its morale is 6.85
 014:40 red wolf 13 attacked blue ninja 8 in city 3 with 10 elements and force 30
 014:40 blue ninja 8 was killed in city 3
 014:40 red wolf 13 earned 10 elements for his headquarter
+014:40 red flag raised in city 3
 014:40 blue iceman 9 attacked red lion 12 in city 4 with 1 elements and force 80
 014:40 red lion 12 was killed in city 4
 014:40 blue iceman 9 earned 10 elements for his headquarter
@@ -868,8 +868,7 @@ Its morale is 9.00
 001:10 blue lion 1 marched to city 1 with 10 elements and force 5
 001:10 red iceman 1 marched to city 2 with 1 elements and force 25
 001:10 blue dragon 2 marched to city 2 with 10 elements and force 5
-001:35 blue dragon 2 shot and killed red lion 2
-001:38 red iceman 1 used a bomb and killed blue dragon 2
+001:35 blue dragon 2 shot and killed red lion 2001:38 red iceman 1 used a bomb and killed blue dragon 2
 001:40 blue lion 1 earned 10 elements for his headquarter
 001:50 90 elements in red headquarter
 001:50 92 elements in blue headquarter
@@ -905,11 +904,11 @@ Its morale is 9.00
 Its morale is 7.20
 004:00 blue wolf 5 born
 004:10 blue ninja 3 reached red headquarter with 5 elements and force 5
-004:10 red headquarter was taken
 004:10 red dragon 5 marched to city 1 with 10 elements and force 5
 004:10 red ninja 4 marched to city 2 with 10 elements and force 5
 004:10 blue wolf 5 marched to city 2 with 10 elements and force 5
 004:10 red wolf 3 reached blue headquarter with 18 elements and force 5
+004:10 red headquarter was taken
 Case 5:
 000:00 red iceman 1 born
 000:00 blue lion 1 born
@@ -982,7 +981,6 @@ Its morale is 8.10
 Its morale is 5.10
 004:00 blue wolf 5 born
 004:10 blue ninja 3 reached red headquarter with 95 elements and force 5
-004:10 red headquarter was taken
 004:10 red dragon 5 marched to city 1 with 100 elements and force 5
 004:10 blue iceman 4 marched to city 1 with 79 elements and force 25
 004:10 red ninja 4 marched to city 2 with 100 elements and force 5
@@ -1538,8 +1536,8 @@ Its morale is 15.36
 012:30 red lion 7 earned 10 elements for his headquarter
 012:30 red iceman 6 earned 10 elements for his headquarter
 012:30 red dragon 5 earned 20 elements for his headquarter
-012:30 blue ninja 3 earned 10 elements for his headquarter
 012:30 red wolf 3 earned 10 elements for his headquarter
+012:30 blue ninja 3 earned 10 elements for his headquarter
 012:30 blue wolf 5 earned 20 elements for his headquarter
 012:30 blue lion 6 earned 10 elements for his headquarter
 012:30 blue dragon 7 earned 10 elements for his headquarter
@@ -1750,8 +1748,7 @@ Its loyalty is 1594
 015:30 blue iceman 14 earned 10 elements for his headquarter
 015:30 blue wolf 15 earned 10 elements for his headquarter
 015:30 blue lion 16 earned 10 elements for his headquarter
-015:35 blue ninja 8 shot and killed red iceman 6
-015:40 blue lion 6 attacked red lion 7 in city 10 with 88 elements and force 100
+015:35 blue ninja 8 shot and killed red iceman 6015:40 blue lion 6 attacked red lion 7 in city 10 with 88 elements and force 100
 015:40 red lion 7 was killed in city 10
 015:40 blue lion 6 earned 10 elements for his headquarter
 015:40 blue flag raised in city 10
@@ -1826,8 +1823,7 @@ Its morale is 17.78
 016:30 blue wolf 15 earned 10 elements for his headquarter
 016:30 blue lion 16 earned 10 elements for his headquarter
 016:30 blue dragon 17 earned 10 elements for his headquarter
-016:35 blue ninja 8 shot and killed red wolf 8
-016:38 red ninja 9 used a bomb and killed blue lion 6
+016:35 blue ninja 8 shot and killed red wolf 8016:38 red ninja 9 used a bomb and killed blue lion 6
 Case 7:
 000:00 red iceman 1 born
 000:00 blue lion 1 born
@@ -2250,8 +2246,7 @@ Its loyalty is 1650
 010:30 blue iceman 9 earned 10 elements for his headquarter
 010:30 blue wolf 10 earned 10 elements for his headquarter
 010:30 blue lion 11 earned 10 elements for his headquarter
-010:35 blue dragon 2 shot and killed red lion 2
-010:40 blue lion 1 earned 10 elements for his headquarter
+010:35 blue dragon 2 shot and killed red lion 2010:40 blue lion 1 earned 10 elements for his headquarter
 010:40 red iceman 1 attacked blue dragon 2 in city 11 with 1 elements and force 120
 010:40 blue dragon 2 was killed in city 11
 010:40 red iceman 1 earned 10 elements for his headquarter
@@ -2660,8 +2655,7 @@ Its morale is 21.02
 016:30 blue lion 16 earned 10 elements for his headquarter
 016:30 blue dragon 17 earned 10 elements for his headquarter
 016:35 red wolf 3 shot and killed blue ninja 13
-016:35 blue ninja 13 shot and killed red wolf 3
-016:40 blue iceman 9 attacked red iceman 6 in city 12 with 1 elements and force 100
+016:35 blue ninja 13 shot and killed red wolf 3016:40 blue iceman 9 attacked red iceman 6 in city 12 with 1 elements and force 100
 016:40 red iceman 6 was killed in city 12
 016:40 blue iceman 9 earned 10 elements for his headquarter
 016:40 blue dragon 12 earned 10 elements for his headquarter
@@ -2796,7 +2790,6 @@ Its morale is 21.02
 018:40 blue dragon 12 earned 20 elements for his headquarter
 018:40 red dragon 5 attacked blue iceman 14 in city 15 with 66 elements and force 20
 018:40 blue iceman 14 was killed in city 15
-018:40 red dragon 5 yelled in city 15
 018:40 red dragon 5 earned 20 elements for his headquarter
 018:50 2408 elements in red headquarter
 018:50 2008 elements in blue headquarter
@@ -2991,7 +2984,6 @@ Its morale is 22.44
 021:35 red iceman 11 shot
 021:40 red dragon 10 attacked blue wolf 15 in city 13 with 90 elements and force 20
 021:40 blue wolf 15 was killed in city 13
-021:40 red dragon 10 yelled in city 13
 021:40 red dragon 10 earned 20 elements for his headquarter
 021:50 2662 elements in red headquarter
 021:50 2090 elements in blue headquarter
@@ -3054,8 +3046,7 @@ Its morale is 22.44
 022:30 blue dragon 22 earned 10 elements for his headquarter
 022:30 blue ninja 23 earned 10 elements for his headquarter
 022:35 red iceman 11 shot
-022:35 blue dragon 17 shot and killed red iceman 11
-022:40 blue dragon 17 attacked red dragon 10 in city 14 with 65 elements and force 20
+022:35 blue dragon 17 shot and killed red iceman 11022:40 blue dragon 17 attacked red dragon 10 in city 14 with 65 elements and force 20
 022:40 red dragon 10 fought back against blue dragon 17 in city 14
 022:40 blue dragon 17 yelled in city 14
 022:50 2772 elements in red headquarter
@@ -3119,8 +3110,7 @@ Its morale is 22.44
 023:30 blue dragon 22 earned 10 elements for his headquarter
 023:30 blue ninja 23 earned 10 elements for his headquarter
 023:30 blue iceman 24 earned 10 elements for his headquarter
-023:35 blue dragon 17 shot and killed red wolf 13
-023:38 blue iceman 19 used a bomb and killed red dragon 10
+023:35 blue dragon 17 shot and killed red wolf 13023:38 blue iceman 19 used a bomb and killed red dragon 10
 023:40 red lion 12 attacked blue dragon 17 in city 13 with 10 elements and force 40
 023:40 blue dragon 17 fought back against red lion 12 in city 13
 023:40 red lion 12 was killed in city 13
@@ -3185,9 +3175,7 @@ Its morale is 30.91
 024:30 blue wolf 25 earned 10 elements for his headquarter
 024:40 blue dragon 17 attacked red ninja 14 in city 12 with 33 elements and force 20
 024:40 red ninja 14 was killed in city 12
-024:40 blue dragon 17 yelled in city 12
 024:40 blue dragon 17 earned 10 elements for his headquarter
-024:40 blue flag raised in city 12
 024:50 2892 elements in red headquarter
 024:50 2214 elements in blue headquarter
 024:55 red dragon 25 has bomb
@@ -3319,7 +3307,6 @@ Its morale is 24.71
 026:30 blue dragon 27 earned 10 elements for his headquarter
 026:40 red dragon 15 attacked blue wolf 20 in city 13 with 90 elements and force 20
 026:40 blue wolf 20 was killed in city 13
-026:40 red dragon 15 yelled in city 13
 026:40 red dragon 15 earned 30 elements for his headquarter
 026:50 3106 elements in red headquarter
 026:50 2294 elements in blue headquarter
@@ -3458,14 +3445,11 @@ Its morale is 24.71
 028:30 blue dragon 27 earned 10 elements for his headquarter
 028:30 blue ninja 28 earned 10 elements for his headquarter
 028:30 blue iceman 29 earned 10 elements for his headquarter
-028:35 blue ninja 23 shot and killed red lion 17
-028:38 red iceman 16 used a bomb and killed blue ninja 23
+028:35 blue ninja 23 shot and killed red lion 17028:38 red iceman 16 used a bomb and killed blue ninja 23
 028:40 blue dragon 22 earned 10 elements for his headquarter
 028:40 red dragon 15 attacked blue iceman 24 in city 15 with 53 elements and force 20
 028:40 blue iceman 24 was killed in city 15
-028:40 red dragon 15 yelled in city 15
 028:40 red dragon 15 earned 10 elements for his headquarter
-028:40 red flag raised in city 15
 028:50 3310 elements in red headquarter
 028:50 2356 elements in blue headquarter
 028:55 red ninja 29 has arrow(3),sword(10)
@@ -3785,22 +3769,21 @@ Its morale is 26.20
 033:30 red iceman 26 earned 10 elements for his headquarter
 033:30 red dragon 25 earned 10 elements for his headquarter
 033:30 red wolf 23 earned 10 elements for his headquarter
-033:30 blue dragon 27 earned 10 elements for his headquarter
 033:30 red iceman 21 earned 30 elements for his headquarter
+033:30 blue dragon 27 earned 10 elements for his headquarter
 033:30 blue wolf 30 earned 10 elements for his headquarter
 033:30 blue lion 31 earned 10 elements for his headquarter
 033:30 blue dragon 32 earned 10 elements for his headquarter
 033:30 blue ninja 33 earned 10 elements for his headquarter
 033:30 blue iceman 34 earned 10 elements for his headquarter
 033:35 red dragon 20 shot and killed blue wolf 30
-033:35 blue iceman 29 shot and killed red iceman 21
-033:40 red ninja 24 attacked blue wolf 25 in city 11 with 20 elements and force 50
+033:35 blue iceman 29 shot and killed red iceman 21033:40 red ninja 24 attacked blue wolf 25 in city 11 with 20 elements and force 50
 033:40 blue wolf 25 was killed in city 11
 033:40 red ninja 24 earned 10 elements for his headquarter
 033:40 red dragon 20 attacked blue iceman 29 in city 15 with 51 elements and force 20
 033:40 blue iceman 29 was killed in city 15
-033:40 red dragon 20 yelled in city 15
 033:40 red dragon 20 earned 20 elements for his headquarter
+033:40 red flag raised in city 15
 033:50 3806 elements in red headquarter
 033:50 2500 elements in blue headquarter
 033:55 red ninja 34 has arrow(3),bomb
@@ -3866,7 +3849,6 @@ Its morale is 41.29
 034:40 blue dragon 27 yelled in city 12
 034:40 red dragon 20 attacked blue lion 31 in city 16 with 34 elements and force 20
 034:40 blue lion 31 was killed in city 16
-034:40 red dragon 20 yelled in city 16
 034:40 red dragon 20 earned 10 elements for his headquarter
 034:50 3838 elements in red headquarter
 034:50 2520 elements in blue headquarter
@@ -3996,8 +3978,7 @@ Its morale is 27.33
 036:30 blue wolf 35 earned 10 elements for his headquarter
 036:30 blue lion 36 earned 10 elements for his headquarter
 036:30 blue dragon 37 earned 10 elements for his headquarter
-036:35 blue dragon 32 shot and killed red ninja 24
-036:40 red wolf 23 attacked blue dragon 32 in city 15 with 20 elements and force 30
+036:35 blue dragon 32 shot and killed red ninja 24036:40 red wolf 23 attacked blue dragon 32 in city 15 with 20 elements and force 30
 036:40 blue dragon 32 fought back against red wolf 23 in city 15
 036:50 4090 elements in red headquarter
 036:50 2510 elements in blue headquarter
@@ -4061,8 +4042,7 @@ Its morale is 27.33
 037:30 blue dragon 37 earned 10 elements for his headquarter
 037:30 blue ninja 38 earned 10 elements for his headquarter
 037:35 red iceman 26 shot
-037:35 blue dragon 32 shot and killed red iceman 26
-037:38 blue iceman 34 used a bomb and killed red wolf 23
+037:35 blue dragon 32 shot and killed red iceman 26037:38 blue iceman 34 used a bomb and killed red wolf 23
 037:40 blue dragon 32 attacked red dragon 25 in city 14 with 10 elements and force 20
 037:40 red dragon 25 fought back against blue dragon 32 in city 14
 037:40 blue dragon 32 was killed in city 14
@@ -4192,7 +4172,6 @@ Its morale is 47.47
 039:30 blue wolf 40 earned 10 elements for his headquarter
 039:40 red dragon 25 attacked blue lion 36 in city 16 with 78 elements and force 20
 039:40 blue lion 36 was killed in city 16
-039:40 red dragon 25 yelled in city 16
 039:40 red dragon 25 earned 10 elements for his headquarter
 039:50 4424 elements in red headquarter
 039:50 2600 elements in blue headquarter
@@ -4264,7 +4243,6 @@ Its loyalty is 2590
 040:40 red flag raised in city 14
 040:40 red dragon 25 attacked blue ninja 38 in city 17 with 96 elements and force 20
 040:40 blue ninja 38 was killed in city 17
-040:40 red dragon 25 yelled in city 17
 040:40 red dragon 25 earned 10 elements for his headquarter
 040:50 4538 elements in red headquarter
 040:50 2630 elements in blue headquarter
@@ -4482,12 +4460,10 @@ Its morale is 28.22
 043:30 red dragon 30 earned 10 elements for his headquarter
 043:30 red ninja 29 earned 10 elements for his headquarter
 043:30 blue ninja 43 earned 20 elements for his headquarter
-043:35 blue ninja 43 shot and killed red lion 27
-043:38 blue dragon 37 used a bomb and killed red lion 32
+043:35 blue ninja 43 shot and killed red lion 27043:38 blue dragon 37 used a bomb and killed red lion 32
 043:40 red wolf 28 attacked blue lion 41 in city 17 with 26 elements and force 30
 043:40 blue lion 41 was killed in city 17
 043:40 red wolf 28 earned 10 elements for his headquarter
-043:40 blue dragon 42 yelled in city 18
 043:40 blue dragon 42 earned 10 elements for his headquarter
 043:40 blue iceman 44 attacked red dragon 25 in city 20 with 30 elements and force 20
 043:40 red dragon 25 fought back against blue iceman 44 in city 20
@@ -4555,8 +4531,7 @@ Its morale is 54.04
 044:30 red dragon 30 earned 10 elements for his headquarter
 044:30 blue iceman 44 earned 10 elements for his headquarter
 044:30 blue wolf 45 earned 20 elements for his headquarter
-044:35 blue ninja 43 shot and killed red ninja 29
-044:35 blue iceman 44 shot
+044:35 blue ninja 43 shot and killed red ninja 29044:35 blue iceman 44 shot
 044:40 blue dragon 42 earned 10 elements for his headquarter
 044:40 blue ninja 43 attacked red wolf 28 in city 18 with 20 elements and force 50
 044:40 red wolf 28 was killed in city 18
@@ -4770,8 +4745,7 @@ Its morale is 27.96
 047:30 blue wolf 45 earned 10 elements for his headquarter
 047:30 blue ninja 48 earned 10 elements for his headquarter
 047:35 red dragon 35 shot and killed blue ninja 43
-047:35 blue dragon 47 shot and killed red iceman 31
-047:40 red ninja 34 earned 10 elements for his headquarter
+047:35 blue dragon 47 shot and killed red iceman 31047:40 red ninja 34 earned 10 elements for his headquarter
 047:40 blue lion 46 earned 20 elements for his headquarter
 047:40 red dragon 30 attacked blue dragon 47 in city 19 with 25 elements and force 20
 047:40 blue dragon 47 fought back against red dragon 30 in city 19
@@ -4844,8 +4818,7 @@ Its morale is 27.96
 048:30 blue ninja 48 earned 20 elements for his headquarter
 048:35 red dragon 35 shot and killed blue wolf 45
 048:35 red ninja 34 shot and killed blue lion 46
-048:35 blue dragon 47 shot and killed red wolf 33
-048:40 red ninja 34 earned 10 elements for his headquarter
+048:35 blue dragon 47 shot and killed red wolf 33048:40 red ninja 34 earned 10 elements for his headquarter
 048:40 blue iceman 49 attacked red dragon 30 in city 20 with 30 elements and force 20
 048:40 red dragon 30 was killed in city 20
 048:40 blue iceman 49 earned 10 elements for his headquarter
